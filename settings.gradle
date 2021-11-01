@@ -1,0 +1,3 @@
+rootProject.name = 'sudoku-solver'
+include 'sudoku-solver-game'
+

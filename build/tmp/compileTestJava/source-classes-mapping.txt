@@ -1,0 +1,2 @@
+com/kodilla/sudoku/SudokuSolverTestSuite.java
+ com.kodilla.sudoku.SudokuSolverTestSuite
